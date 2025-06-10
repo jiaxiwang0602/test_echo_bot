@@ -1,1 +1,6 @@
-botbuilder-integration-aiohttp>=4.15.0
+aiohttp 
+gunicorn
+uvicorn 
+botbuilder-core 
+botbuilder-schema 
+botbuilder-integration-aiohttp
